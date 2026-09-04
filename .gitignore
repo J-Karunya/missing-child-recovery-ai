@@ -1,0 +1,16 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+data/alerts/
+data/logs/
+data/child_images/
+data/cctv_videos/
+data/cctv_uploads/
+data/backups/
+data/*.db
+data/database/*.db
+
+embeddings/
